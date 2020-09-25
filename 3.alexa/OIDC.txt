@@ -1,0 +1,4 @@
+login: https://XXX.auth.eu-central-1.amazoncognito.com/login
+token: https://XXX.auth.eu-central-1.amazoncognito.com/oauth2/token
+client id: XXXX
+secret: XXXXXXXXXXXX
